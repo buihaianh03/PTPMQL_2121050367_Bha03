@@ -1,4 +1,4 @@
-namespace MvcMovie.Models
+namespace DemoMVC367.Models
 {
     public class PersonModel
     {

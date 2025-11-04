@@ -1,9 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using MvcMovie.Data;    
+using DemoMVC367.Data;    
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Đăng ký DbContext dùng SQLite
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
 );

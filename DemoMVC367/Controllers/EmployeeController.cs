@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MvcMovie.Controllers
+namespace DemoMVC367.Controllers
 {
     public class EmployeeController : Controller
     {

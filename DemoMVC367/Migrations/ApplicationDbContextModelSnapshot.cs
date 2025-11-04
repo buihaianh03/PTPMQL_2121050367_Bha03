@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MvcMovie.Data;
+using DemoMVC367.Data;
 
 #nullable disable
 
-namespace MvcMovie.Migrations
+namespace DemoMVC367.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -16,7 +16,7 @@ namespace MvcMovie.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "9.0.10");
 
-            modelBuilder.Entity("MvcMovie.Models.Person", b =>
+            modelBuilder.Entity("DemoMVC367.Models.Person", b =>
                 {
                     b.Property<string>("PersonId")
                         .ValueGeneratedOnAdd()

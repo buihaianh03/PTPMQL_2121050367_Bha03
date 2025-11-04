@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using MvcMovie.Models;
+using DemoMVC367.Models;
 
-namespace MvcMovie.Controllers
+namespace DemoMVC367.Controllers
 {
     public class DaiLyController : Controller
     {

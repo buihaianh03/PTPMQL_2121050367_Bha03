@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace MvcMovie.Migrations
+namespace DemoMVC367.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration
