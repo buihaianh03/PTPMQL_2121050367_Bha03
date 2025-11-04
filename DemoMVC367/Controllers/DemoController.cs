@@ -42,5 +42,27 @@ namespace DemoMVC367.Controllers
         {
             return StatusCode(404, "Resource not found");
         }
+        public IActionResult SendToView()
+        {
+            string message = "Xin chao DemoMVC367";
+            return View("Data", message);
+        }
+    
+   public IActionResult DataExample()
+        {
+            ViewData["Message1"] = "Hello from Vietnam!";
+            ViewBag.Message2 = "Hello from ViewBag!";
+            TempData["City"] = "Ha Noi";
+
+            return View();
+        }
+
+        public IActionResult TempDataExample()
+        {
+            var city = TempData["City"]?.ToString();
+            ViewBag.CityName = city ?? "Unknown City";
+
+            return View();
+        }
     }
 }
