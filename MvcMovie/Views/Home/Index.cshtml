@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<h2>Nhập thông tin</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Nhập họ tên: </label>
+        <input type="text" name="hoTen" />
+    </div>
+    <div>
+        <label>Nhập địa chỉ: </label>
+        <input type="text" name="diaChi" />
+    </div>
+    <div style="margin-top:10px;">
+        <button type="submit">Gửi dữ liệu</button>
+    </div>
+</form>
+
+@if (ViewBag.ThongBao != null)
+{
+    <h3 style="margin-top:20px; color:brown;">@ViewBag.ThongBao</h3>
+}
