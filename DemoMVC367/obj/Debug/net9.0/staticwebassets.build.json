@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hl7JsUMwJ+1O4oVERNasPZaCgGQLUKGZrMksPGmfLUE=",
+  "Hash": "3mXHfoPD1tw/ZpgkLeLCTPNJWsHuZdcK4I89nqLet1g=",
   "Source": "DemoMVC367",
   "BasePath": "_content/DemoMVC367",
   "Mode": "Default",
@@ -143,12 +143,12 @@
       "OriginalItemSpec": "D:\\PTPMQL\\DemoMVC367\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-5tna19r1p6.gz",
+      "Identity": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-ua3q7sdgm3.gz",
       "SourceId": "DemoMVC367",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DemoMVC367",
-      "RelativePath": "DemoMVC367#[.{fingerprint=5tna19r1p6}]?.styles.css.gz",
+      "RelativePath": "DemoMVC367#[.{fingerprint=ua3q7sdgm3}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -157,8 +157,8 @@
       "RelatedAsset": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DemoMVC367.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xszdh2001b",
-      "Integrity": "fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=",
+      "Fingerprint": "s3pu52uuep",
+      "Integrity": "mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DemoMVC367.styles.css"
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "D:\\PTPMQL\\DemoMVC367\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-5tna19r1p6.gz",
+      "Identity": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-ua3q7sdgm3.gz",
       "SourceId": "DemoMVC367",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DemoMVC367",
-      "RelativePath": "DemoMVC367#[.{fingerprint=5tna19r1p6}]!.bundle.scp.css.gz",
+      "RelativePath": "DemoMVC367#[.{fingerprint=ua3q7sdgm3}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DemoMVC367.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xszdh2001b",
-      "Integrity": "fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=",
+      "Fingerprint": "s3pu52uuep",
+      "Integrity": "mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DemoMVC367.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "5tna19r1p6",
-      "Integrity": "9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=",
+      "Fingerprint": "ua3q7sdgm3",
+      "Integrity": "ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DemoMVC367.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "5tna19r1p6",
-      "Integrity": "9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=",
+      "Fingerprint": "ua3q7sdgm3",
+      "Integrity": "ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DemoMVC367.bundle.scp.css"
@@ -3026,8 +3026,8 @@
       ]
     },
     {
-      "Route": "DemoMVC367.5tna19r1p6.bundle.scp.css",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-5tna19r1p6.gz",
+      "Route": "DemoMVC367.bundle.scp.css",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-ua3q7sdgm3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3046,15 +3046,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3070,26 +3070,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
+          "Value": "W/\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5tna19r1p6"
-        },
-        {
-          "Name": "label",
-          "Value": "DemoMVC367.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
         }
       ]
     },
     {
-      "Route": "DemoMVC367.5tna19r1p6.bundle.scp.css",
+      "Route": "DemoMVC367.bundle.scp.css",
       "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DemoMVC367.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3107,35 +3099,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
+          "Value": "\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5tna19r1p6"
-        },
-        {
-          "Name": "label",
-          "Value": "DemoMVC367.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
         }
       ]
     },
     {
-      "Route": "DemoMVC367.5tna19r1p6.bundle.scp.css.gz",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-5tna19r1p6.gz",
+      "Route": "DemoMVC367.bundle.scp.css.gz",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-ua3q7sdgm3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3152,11 +3136,301 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC367.styles.css",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-ua3q7sdgm3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC367.styles.css",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DemoMVC367.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC367.styles.css.gz",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-ua3q7sdgm3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC367.ua3q7sdgm3.bundle.scp.css",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-ua3q7sdgm3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ua3q7sdgm3"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC367.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC367.ua3q7sdgm3.bundle.scp.css",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DemoMVC367.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ua3q7sdgm3"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoMVC367.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
+        }
+      ]
+    },
+    {
+      "Route": "DemoMVC367.ua3q7sdgm3.bundle.scp.css.gz",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-ua3q7sdgm3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3448,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5tna19r1p6"
+          "Value": "ua3q7sdgm3"
         },
         {
           "Name": "label",
@@ -3182,13 +3456,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4="
+          "Value": "sha256-mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE="
         }
       ]
     },
     {
-      "Route": "DemoMVC367.5tna19r1p6.styles.css",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-5tna19r1p6.gz",
+      "Route": "DemoMVC367.ua3q7sdgm3.styles.css",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-ua3q7sdgm3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3207,11 +3481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3231,13 +3505,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
+          "Value": "W/\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5tna19r1p6"
+          "Value": "ua3q7sdgm3"
         },
         {
           "Name": "label",
@@ -3245,12 +3519,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
         }
       ]
     },
     {
-      "Route": "DemoMVC367.5tna19r1p6.styles.css",
+      "Route": "DemoMVC367.ua3q7sdgm3.styles.css",
       "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DemoMVC367.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3268,11 +3542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
+          "Value": "\"ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3282,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5tna19r1p6"
+          "Value": "ua3q7sdgm3"
         },
         {
           "Name": "label",
@@ -3290,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
+          "Value": "sha256-ykXGLOu81cGWL3MAXPvYwZQbg1lp5xWvlzmjcu7IWoc="
         }
       ]
     },
     {
-      "Route": "DemoMVC367.5tna19r1p6.styles.css.gz",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-5tna19r1p6.gz",
+      "Route": "DemoMVC367.ua3q7sdgm3.styles.css.gz",
+      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-ua3q7sdgm3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3313,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
+          "Value": "\"mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
+          "Value": "Tue, 04 Nov 2025 03:49:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3335,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5tna19r1p6"
+          "Value": "ua3q7sdgm3"
         },
         {
           "Name": "label",
@@ -3343,281 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4="
-        }
-      ]
-    },
-    {
-      "Route": "DemoMVC367.bundle.scp.css",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-5tna19r1p6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001834862385"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
-        }
-      ]
-    },
-    {
-      "Route": "DemoMVC367.bundle.scp.css",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DemoMVC367.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
-        }
-      ]
-    },
-    {
-      "Route": "DemoMVC367.bundle.scp.css.gz",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\kyrjeo8un9-5tna19r1p6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4="
-        }
-      ]
-    },
-    {
-      "Route": "DemoMVC367.styles.css",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-5tna19r1p6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001834862385"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
-        }
-      ]
-    },
-    {
-      "Route": "DemoMVC367.styles.css",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DemoMVC367.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9xNZHApKMRSHIRKrOMS7o/LPC+Ipes1JDPVGyMKs8xI="
-        }
-      ]
-    },
-    {
-      "Route": "DemoMVC367.styles.css.gz",
-      "AssetFile": "D:\\PTPMQL\\DemoMVC367\\obj\\Debug\\net9.0\\compressed\\2l3hw7uzsa-5tna19r1p6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 03:28:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fxAQgxDvtFqzvnfnKlP2L08O1XaG9d0lwxMZWVeU1F4="
+          "Value": "sha256-mKdMwVpcYGdq3Hr0B+aUm28YE30ukRqvGNeQQ7uFIqE="
         }
       ]
     },
