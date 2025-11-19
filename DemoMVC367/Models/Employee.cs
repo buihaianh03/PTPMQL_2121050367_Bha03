@@ -4,5 +4,6 @@ namespace DemoMVC367.Models
     {
         public string? EmployeeId { get; set; }
         public int Age { get; set; }
+    
     }
 }
